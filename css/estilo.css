@@ -25,12 +25,23 @@ body, html {
 
 .input_Text{
 	display: block;
+	height: 1.4em;
+	border-radius: 5px;
+	border: 1px solid #b9b9b9; 
+	font-size: 1em;
+	margin: auto;
+	padding: 10px;
 }
 
 .boton {
 	display: block;
 	background-color: var(--primary_Dark_Color);
-	color: white; 
+	color: white;
+	border: 1px solid #565353;
+	font-size: 1em;
+	padding: 10px;
+	border-radius: 5px;
+	width: 120px;
 }
 
 
